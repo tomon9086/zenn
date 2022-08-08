@@ -1,0 +1,11 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "repository": "git@github.com:tomon9086/zenn.git",
+  "author": "tomon9086 <tomon9086@gmail.com>",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "zenn-cli": "^0.1.116"
+  }
+}
