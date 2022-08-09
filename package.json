@@ -4,7 +4,9 @@
   "repository": "git@github.com:tomon9086/zenn.git",
   "author": "tomon9086 <tomon9086@gmail.com>",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "preview": "zenn preview"
+  },
   "devDependencies": {
     "textlint": "^12.2.1",
     "textlint-filter-rule-comments": "^1.2.2",
